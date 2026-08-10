@@ -3,11 +3,11 @@
   Jyotiranjan Mohakud
 -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="assets/banner.svg" alt="Jyotiranjan Mohakud profile banner featuring AI, machine learning, and technology themes" width="100%" />
 
-</div>
+</div> -->
 
 <h1 align="center">Hi 👋, I'm Jyotiranjan Mohakud</h1>
 

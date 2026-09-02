@@ -18,8 +18,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering (AI/ML), GIET University, Gunupur (2024 – 2028)
-- 🐍 I build practical applications with **Python**, **Flask/Django**, and modern web tech
-- 🤖 Exploring **Machine Learning**, **Deep Learning**, and real-world AI product design
+- 🐍 I build practical applications with **Python**, **Flask/FastAPI**, and modern web tech
+- 🤖 Exploring **Machine Learning**, **Deep Learning**,**Generative-AI** and real-world AI product design
 - 💡 Currently diving into multi-modal models, real-time inference & edge deployment
 - 🌱 Constantly learning by shipping projects — from hackathons to full-stack apps
 
